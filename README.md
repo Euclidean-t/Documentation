@@ -2,9 +2,9 @@
 
 <p align="center">
 <img width="1340" height="625" src="./Images/Dimensions.png"/>
-Team 6
-Aran, Gijs, Inger
-2020-10-16
+Team 6<br/>
+Aran, Gijs, Inger<br/>
+2020-10-16<br/>
 </p>
 
 ---
