@@ -17,10 +17,12 @@ My primary role in the process was helping design puzzles and then translating t
 ### Plus
 - We managed to create a good prototype, with multiple levels, given the little time we had
 - I learned a lot about creating for VR
+- I enjoyed designing in non-euclidean space greatly 
 
 ### Minus
 - My headset decided to give out halfway through the project, leaving only one of us able to test on the fly
 - I would have liked to playtest with people outside our team
+- I feel I could have added a few more levels
 
 ### Interesting
 - What is clear and understandable to may not be to everyone
