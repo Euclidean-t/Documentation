@@ -12,6 +12,10 @@ Aran, Gijs, Inger<br/>
 ## Links
 - [Project source](https://github.com/Euclidean-t/Euclidea-N-T)
 - [Gameplay video](./Videos/Gameplay.mp4)
+- Personal reflections
+  - [Aran](./Personal/Aran.md)
+  - [Gijs](./Personal/Gijs.md)
+  - [Inger](./Personal/Inger.md)
 
 ## Goal of the project
 ### Problem
