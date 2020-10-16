@@ -3,7 +3,7 @@
 ## Contributions
 My main role in the development process was programming.
 ### Design
-In the first lecture when creating groups I showed my interest in creating a non-euclidean VR game in the Discord text channel. Anar and Inger quickly followed up in sharing this interest, after that the design process started and as I had the most technical experience with using portals in VR that is where most of my contribution to the design stopped. The only other design feature that was my idea was the pole in the middle of the room to use as a way to progress towards the next level.
+In the first lecture when creating groups I showed my interest in creating a non-euclidean VR game in the Discord text channel. Aran and Inger quickly followed up in sharing this interest, after that the design process started and as I had the most technical experience with using portals in VR that is where most of my contribution to the design stopped. The only other design feature that was my idea was the pole in the middle of the room to use as a way to progress towards the next level.
 
 ### Technical
 Technical contributions:
